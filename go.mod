@@ -10,7 +10,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	go.uber.org/multierr v1.9.0
 	golang.org/x/exp v0.0.0-20230213192124-5e25df0256eb
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
